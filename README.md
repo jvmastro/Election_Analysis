@@ -13,7 +13,7 @@ A Colorado Board of Elections employee needs the results of a local congressiona
 8. Winnner of the election based popular vote
 
 ## Resources 
-- Data Source: election_results.csv
+- Data Source: Resources/election_results.csv
 - Software: Python 3.6.6, Visual Studio Code 1.38.1
 
 ## Audit Results
