@@ -1,4 +1,4 @@
-< h1 align="center"> Colorado Congressional Election Audit</hi>
+<h1 align="center"> Colorado Congressional Election Audit</h1>
 
 ## Overview of Assignment 
 A Colorado Board of Elections employee needs the results of a local congressional election to be audited.The following need to be calculated:
