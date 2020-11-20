@@ -1,32 +1,55 @@
-# Election_Analysis
+< h1 align="center"> Colorado Congressional Election Audit</hi>
 
-## Project Overview 
-A Colorado Board of Elections employee has given you the following tasks to complete the election audit of a recent local congressional election.
+## Overview of Assignment 
+A Colorado Board of Elections employee needs the results of a local congressional election to be audited.The following need to be calculated:
 
-1. Calculate the total number of votes cast. 
-2. Get complete list of candidates who received votes. 
-3. Calculate the total number of votes each candidiate received. 
-4. Calculate the percentage of votes each candidate won. 
-5. Determine the winnner of the election based popular vote. 
+1. List of candiates 
+2. Total votes cast
+3. Number of votes from each county
+4. Percentage of total votes by county 
+5. County with the highest voter turnout
+6. Total number of votes each candidiate received 
+7. Percentage of votes each candidate won 
+8. Winnner of the election based popular vote
 
 ## Resources 
 - Data Source: election_results.csv
 - Software: Python 3.6.6, Visual Studio Code 1.38.1
 
-## Summary
-The analysis of the election show that:
-- There were "x" votes cast in the election
-- The candidates were:
-    - Candidate 1
-    - Candidate 2
-    - Candidate 3
-- The candidate results were:
-  - Candidate 1 recieved "x%" of the vote and "y" number votes.
-  - Candidate 2 recieved "x%" of the vote and "y" number votes. 
-  - Candidate 3 received "x%" of the vote and "y" number votes. 
-- The winner of the election was:
-  - Candidate (1,2, or 3), who received "x%" of the vote and "y" number of votes. 
+## Audit Results
 
-## Challenge Overview
+The analysis of the election show that:
+* The candidates were:
+    * Charles Casper Stockham
+    * Diana DeGette
+    * Raymon Anthony Doane
+    
+* There were 369, 711 votes cast in the election
+
+*
+
+* The candidate results were:
+  * Stockham recieved 23.0% of the vote and a toal of 85,213 votes.
+  * DeGette recieved 73.8% of the vote and a total of 272,892 votes. 
+  * Doane received 3.1% of the vote and a total of 11,606.
+* The winner of the election was:
+  * Diana DeGette who received 73.8% of the vote and a total of 272,892 votes.
+
+## Secondary Audit Overview
+The Colorado Board of Elections employee needed a more complete audit of the election data. Added to the previous list of tasks, you are asked to do the following:
+
+1. Calculate the total number of votes cast in each county.
+2. Calculate the percentage of votes cast in each county.
+3. Detetmine the county with the largest voter turnout. 
+
+### Resources 
+- Data Source: election_results.csv
+- Software: Python 3.6.6, Visual Studio Code 1.38.1
+
+### Secondary Audit Results
+
+*
+
+
 
 ## Challenege Summary
